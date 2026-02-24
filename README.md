@@ -6,7 +6,9 @@
   <img src="https://img.shields.io/badge/Language-Java-orange?style=for-the-badge&logo=java" alt="Java">
   <img src="https://img.shields.io/badge/Security-Cryptography-blue?style=for-the-badge" alt="Cryptography">
 </div>
-----
+
+<hr>
+
 <p>Unlike simple substitution ciphers, the Hill Cipher uses linear algebra (matrix multiplication modulo 26) to encrypt blocks of text, making it highly resistant to basic frequency analysis.</p>
 
 <hr>
